@@ -1,0 +1,7 @@
+#Task 3: Heart Disease Prediction
+
+**Dataset**: Heart Disease UCI (Kaggle)  
+**Models Used**: Logistic Regression, Decision Tree  
+**Evaluation Metrics**: Accuracy, Confusion Matrix, ROC-AUC  
+**Findings**: Logistic Regression gave a high accuracy with clear AUC of XX%
+
